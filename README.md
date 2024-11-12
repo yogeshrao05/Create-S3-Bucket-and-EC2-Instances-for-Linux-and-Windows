@@ -1,6 +1,6 @@
- # VIRTUAL MACHINE CREATION IN LINUX
+ # CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
   ## AIM
-       To Install Virtualbox / VMware Workstation with different flavours of linux.
+       To Create S3 bucket and EC2 Instances for Linux and Windows.
 ## PROBLEM STATEMENT
     Explain about the Experiment.
 
